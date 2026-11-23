@@ -1,0 +1,11 @@
+{
+  "id": "build",
+  "owner": "Freebielife",
+  "repo": "Build",
+  "workflow": "update.yml",
+  "ref": "main",
+  "everyMinutes": 30,
+  "phaseMinutes": 20,
+  "enabled": true,
+  "status": "prepared_only_not_deployed"
+}
